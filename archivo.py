@@ -1,6 +1,6 @@
 import os
 import shutil
-import winreg
+#import winreg
 import time
 def main():
     ui = input("----- (R)un , (D)elete , (M)ove , (V)iew, (W)inreg ----- ")
